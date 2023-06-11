@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    width: 100%;
+    background-color: url();
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0;
+}
+.left3{
+    display: flex;
+}
